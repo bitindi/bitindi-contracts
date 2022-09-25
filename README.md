@@ -1,4 +1,4 @@
-# heco-contracts
+# bitindi-contracts
 
 ## Prepare
 
